@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ad66ad-47f6-4d3f-b269-38fa5ae43347" name="Changes" comment="softwarica">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/WebDriver/MsEdge/msedgedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/np/edu/softwarica/commonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/Apply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/Career.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/ClickOnCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/ContactUs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/InterStu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/StuCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/clickOnAboutUs.java" afterDir="false" />
-    </list>
+    <list default="true" id="39ad66ad-47f6-4d3f-b269-38fa5ae43347" name="Changes" comment=" softwaricaCollage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1693172826020</updated>
     </task>
+    <task id="LOCAL-00001" summary=" softwaricaCollage">
+      <created>1693369032291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693369032291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="softwarica" />
-    <option name="LAST_COMMIT_MESSAGE" value="softwarica" />
+    <MESSAGE value=" softwaricaCollage" />
+    <option name="LAST_COMMIT_MESSAGE" value=" softwaricaCollage" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ProjectTesting$clickOnAboutUs.ic" NAME="clickOnAboutUs Coverage Results" MODIFIED="1693182426342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
