@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39ad66ad-47f6-4d3f-b269-38fa5ae43347" name="Changes" comment="softwarica">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/WebDriver/MsEdge/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/np/edu/softwarica/commonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/Apply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/Career.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/ClickOnCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/ContactUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/InterStu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/StuCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/np/edu/softwarica/clickOnAboutUs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.15/lib/src.zip!/java.base/java/lang/NullPointerException.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UaLbZU2K7Y2yUO1d5g0ltMWh8p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Devraj/IdeaProjects/ProjectTesting/.idea/WebDriver/MsEdge"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Devraj\IdeaProjects\ProjectTesting\.idea\WebDriver\MsEdge" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Devraj\IdeaProjects\ProjectTesting\.idea" />
+      <recent name="C:\Users\Devraj\IdeaProjects\ProjectTesting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Apply">
+    <configuration name="Apply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="np.edu.softwarica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="np.edu.softwarica" />
+      <option name="MAIN_CLASS_NAME" value="np.edu.softwarica.Apply" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apply.ClickApply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="np.edu.softwarica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="np.edu.softwarica" />
+      <option name="MAIN_CLASS_NAME" value="np.edu.softwarica.Apply" />
+      <option name="METHOD_NAME" value="ClickApply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apply.SelectCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="np.edu.softwarica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="np.edu.softwarica" />
+      <option name="MAIN_CLASS_NAME" value="np.edu.softwarica.Apply" />
+      <option name="METHOD_NAME" value="SelectCourse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Career" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="np.edu.softwarica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="np.edu.softwarica" />
+      <option name="MAIN_CLASS_NAME" value="np.edu.softwarica.Career" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clickOnAboutUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="np.edu.softwarica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="np.edu.softwarica" />
+      <option name="MAIN_CLASS_NAME" value="np.edu.softwarica.clickOnAboutUs" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Apply" />
+        <item itemvalue="JUnit.Apply.ClickApply" />
+        <item itemvalue="JUnit.Apply.SelectCourse" />
+        <item itemvalue="JUnit.Career" />
+        <item itemvalue="JUnit.clickOnAboutUs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39ad66ad-47f6-4d3f-b269-38fa5ae43347" name="Changes" comment="" />
+      <created>1693172826020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693172826020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="softwarica" />
+    <option name="LAST_COMMIT_MESSAGE" value="softwarica" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjectTesting$clickOnAboutUs.ic" NAME="clickOnAboutUs Coverage Results" MODIFIED="1693182426342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>np.edu.softwarica.*</FILTER>
+    </SUITE>
+  </component>
+</project>
